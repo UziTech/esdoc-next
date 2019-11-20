@@ -1,5 +1,5 @@
 {
-  "name": "esdoc",
+  "name": "esdoc-next",
   "version": "1.1.0",
   "description": "Good Documentation Generator For JavaScript",
   "author": {
@@ -78,6 +78,6 @@
   ],
   "main": "out/src/ESDoc.js",
   "bin": {
-    "esdoc": "out/src/ESDocCLI.js"
+    "esdoc-next": "out/src/ESDocCLI.js"
   }
 }
