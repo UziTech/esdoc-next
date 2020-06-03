@@ -26,26 +26,33 @@ Please <a href="https://try.esdoc.org">try it out</a>!
 And [more](https://github.com/search?o=desc&q=esdoc+filename%3Apackage.json+-user%3Ah13i32maru+-user%3Aesdoc+-user%3Aes-doc&ref=searchresults&s=indexed&type=Code&utf8=%E2%9C%93).
 
 # Quick Start
-```sh
-# Move to a your project directory.
-cd your-project/
+* Move to a your project directory.  
+  ```sh
+  cd your-project/
+  ```
 
-# Install ESDoc and standard plugin.
-npm install --save-dev esdoc esdoc-standard-plugin
+* Install ESDoc and standard plugin.  
+  ```sh
+  npm install --save-dev esdoc esdoc-standard-plugin
+  ```
 
-# Create a configuration file.
-echo '{
-  "source": "./src",
-  "destination": "./docs",
-  "plugins": [{"name": "esdoc-standard-plugin"}]
-}' > .esdoc.json
+* Create a configuration file.  
+  ```sh
+  echo '{
+    "source": "./src",
+    "destination": "./docs",
+    "plugins": [{"name": "esdoc-standard-plugin"}]
+  }' > .esdoc.json
+  ```
 
-# Run ESDoc.
-./node_modules/.bin/esdoc
-
-# View a documentation
-open ./docs/index.html
-```
+* Run ESDoc.  
+  ```sh
+  ./node_modules/.bin/esdoc
+  ```
+* View the documentation.
+  ```sh
+  open ./docs/index.html
+  ```
 
 # Document
 Please visit [esdoc.org](https://esdoc.org) to see more documentation.
