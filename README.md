@@ -50,8 +50,5 @@ open ./docs/index.html
 # Document
 Please visit [esdoc.org](https://esdoc.org) to see more documentation.
 
-# License
-MIT
-
-# Author
-[Ryo Maruyama@h13i32maru](https://twitter.com/h13i32maru)
+## License
+Copyright 2015 Ryo Maruyama - Permission granted under the [MIT license](LICENSE).
