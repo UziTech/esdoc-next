@@ -1,5 +1,5 @@
 <!--![Owner Status](https://img.shields.io/badge/owner-busy-red.svg)-->
-[![Build Status](https://travis-ci.org/esdoc/esdoc.svg?branch=master)](https://travis-ci.org/esdoc/esdoc)
+![CI](https://github.com/esdoc-next/esdoc-next/workflows/CI/badge.svg)
 [![Coverage Status](https://codecov.io/gh/esdoc/esdoc/branch/master/graph/badge.svg)](https://codecov.io/gh/esdoc/esdoc)
 [![Document](https://doc.esdoc.org/github.com/esdoc/esdoc/badge.svg?t=0)](https://doc.esdoc.org/github.com/esdoc/esdoc)
 
