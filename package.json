@@ -43,7 +43,7 @@
     "@babel/preset-env": "^7.7.1",
     "@babel/register": "^7.7.0",
     "babel-plugin-istanbul": "5.2.0",
-    "codecov": "3.6.1",
+    "codecov": "3.7.1",
     "esdoc-accessor-plugin": "latest",
     "esdoc-external-ecmascript-plugin": "latest",
     "esdoc-importpath-plugin": "^1.0.1",
